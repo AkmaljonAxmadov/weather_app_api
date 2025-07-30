@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "655ae81b4882e8e9d209cb48d2f7310b"    # Insert your API_KEY here!
+API_KEY = "YOUR_TOKEN"    # Insert your API_KEY here!
 
 city = input("Enter city: ").strip()
 
